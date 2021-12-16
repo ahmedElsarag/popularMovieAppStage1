@@ -1,9 +1,9 @@
-# Breaking News App
+# Movie App Stage1
 
-# world's news app with details of each one, search for specific news, refreshing, and source of news.
+#android developer nanodegree project1 movie app from IMDB API
 
 ## Screenshots
-![video-to-gif-converter](https://user-images.githubusercontent.com/29501891/146382892-c7fee90f-e019-4bde-96bc-cf1590416b88.gif)
+![video-to-gif-converter](https://user-images.githubusercontent.com/29501891/146389763-139e70d2-7a35-4170-99b2-056446b5772a.gif)
 
 
 ## Built With
@@ -13,9 +13,6 @@
 - Retrofit
 - Material Design
 
-## Future Updates
-
-- [ ] creat web view
 
 ## Author
 
